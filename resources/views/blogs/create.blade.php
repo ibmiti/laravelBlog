@@ -17,5 +17,8 @@
         <textarea class="form-control" name="content" rows="10" cols="80"></textarea>
     </div>
 
+    <div class="form-group">
+        <button class="btn btn-outline-primary" type="submit" name="button">Add Blog post</button>
+    </div>
 </form>
 @endsection
